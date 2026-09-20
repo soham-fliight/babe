@@ -1,0 +1,4 @@
+.playwright-mcp/
+agent-tools/
+*.png
+_site/
